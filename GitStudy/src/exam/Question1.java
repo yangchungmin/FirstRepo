@@ -6,7 +6,7 @@ public class Question1 {
 		System.out.println("        /)/)");
 		System.out.println("       (  xx)");
 		System.out.println("       (  >¢½");
-		System.out.println(" Have a Good Time.");
+		System.out.println(" Have a Good day!!!.");
 		System.out.println("====================\n");
 	}
 }
